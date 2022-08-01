@@ -2,7 +2,7 @@
 layout: default
 title: GC-MS
 parent: Docs
-nav_order: 2
+nav_order: 1
 ---
 
 # Buttons
