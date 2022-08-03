@@ -3,7 +3,7 @@ layout: default
 title: test
 nav_order: 2
 parent: Projects
-permalink: /docs/projects/test
+permalink: /docs/projects/
 ---
 
 
