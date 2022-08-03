@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Lab 2 Procedure
-nav_order: 5
-permalink: /docs/projects/
+nav_order: 1
+permalink: /docs/projects/page
 has_toc: false
 parent: Projects
 ---
