@@ -3,7 +3,7 @@ layout: default
 title: GC-MS
 #nav_order: 5
 has_children: true
-permalink: /docs/Projects
+permalink: /docs/Projects/
 ---
 
 # UI Components
