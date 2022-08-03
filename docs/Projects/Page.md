@@ -3,6 +3,7 @@ layout: default
 title: Lab 2 Procedure
 nav_order: 1
 has_toc: false
+parent: Projects
 ---
 
 # GC-TCD Procedure
