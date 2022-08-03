@@ -1,8 +1,9 @@
 ---
 layout: default
 title: test
-nav_order: 4
-has_children: true
+nav_order: 2
+parent: Projects
+permalink: /docs/projects/test
 ---
 
 
