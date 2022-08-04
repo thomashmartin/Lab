@@ -1,1 +1,28 @@
 
+.site-header {
+    height: 60px;
+    max-height: 60px;
+    border-bottom: 1px solid #000000;
+}
+.side-bar {
+    z-index: 0;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #FFFFFF;
+}
+
+.tip {
+	border: 1px solid #4A7729;
+	background-color: #FFF;
+  border-radius: 10px; /* 5px rounded corners */
+  padding: 15px;
+	margin: 5px;
+}
+
+.warning {
+	border: 2px solid #BE3A34;
+	background-color: #FFF;
+  border-radius: 10px; /* 5px rounded corners */
+  padding: 15px;
+	margin: 5px;
+}
