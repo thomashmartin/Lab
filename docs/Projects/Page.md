@@ -71,7 +71,7 @@ parent: Projects
     3. Squirt solvent through the syringe.  
     4. Clean the plunger and the needle with a Kimwipe moistened with your solvent.  
     
-1. For a solvent blank:  Pull about 2 $\mu$L acetone into the syringe.  Record how much you end up loading into the syringe. (Check with your instructor to see if you need to do this.)
+1. For a solvent blank:  Pull about 2 $$\mu$$L acetone into the syringe.  Record how much you end up loading into the syringe. (Check with your instructor to see if you need to do this.)
 
 1. For samples:
     1. Pull 2 $\mu$L of your sample into the syringe.  Make sure inject *exactly* the same amount into each instrument.
