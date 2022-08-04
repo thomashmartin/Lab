@@ -6,7 +6,9 @@ $btn-primary-color: #a98700 !default;
 $base-button-color: #a98700 !default;
 $nav-child-link-color: #454545;
 $font-size-8: 29px !default; //h1
-h1 {
+
+h1,
+.text-alpha {
    font-family: "Helvetica";
    font-weight:800;
    font-size:29 px;
