@@ -12,6 +12,12 @@
     border-right: 1px solid #000000;
 }
 
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    background-color: #fff;
+    border-bottom: 1px solid #000000;
 .tip {
 	border: 1px solid #4A7729;
 	background-color: #FFF;
