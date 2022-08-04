@@ -103,6 +103,7 @@ color_scheme: new
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-latex
 
 kramdown:
   syntax_highlighter_opts:
