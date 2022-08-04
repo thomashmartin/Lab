@@ -5,8 +5,9 @@
 
 h1,
 .text-alpha {
-  @include fs-8;
-  font-weight: 300;
+   font-family: "Helvetica";
+   font-weight: 800;
+   font-size: 29px;
 }
 
 h2,
