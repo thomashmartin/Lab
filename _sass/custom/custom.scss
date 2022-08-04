@@ -60,7 +60,7 @@ blockquote {
 	background-color: #FAFAFA;
   border-radius: 10px; /* 5px rounded corners */
   padding-top: 10px;
- //	padding-left: 0%;
+ 	padding-left: 1%;
 	padding-right: 5%;
 	padding-bottom: 5%;
   // border: 1px solid #f2f2f2;
@@ -73,7 +73,7 @@ blockquote {
 	background-color: #FFF;
   border-radius: 10px; /* 5px rounded corners */
   padding: 15px;
- //	margin: 0px;
+	margin: 1px;
 }
 
 .warning {
@@ -81,7 +81,7 @@ blockquote {
 	background-color: #FFF;
   border-radius: 10px; /* 5px rounded corners */
   padding: 15px;
- //	margin: 0px;
+	margin: 1px;
 }
 
 .tip::before {
