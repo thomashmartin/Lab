@@ -1,4 +1,4 @@
-$body-text-color: $grey-dk-001 !default;
+$body-text-color: #fff !default;
 $grey-dk-001: #fff !default;
 
 $link-color: #a98700 !default;
@@ -7,7 +7,8 @@ $base-button-color: #a98700 !default;
 $nav-child-link-color: #454545;
 
 
-h1,.text-alpha {
+
+h1, .text-alpha {
    font-family: "Helvetica";
    font-weight: 600;
    font-size: 29px;
