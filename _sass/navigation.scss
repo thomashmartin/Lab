@@ -52,7 +52,7 @@
       &:hover,
       &.active {
        color: #000
-        );
+        };
       }
     }
 
@@ -80,7 +80,7 @@
 
       &:hover {
           color: #000
-        );
+        };
       }
 
       @if $nav-list-expander-right {
