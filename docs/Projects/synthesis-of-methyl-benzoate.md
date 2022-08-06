@@ -42,7 +42,7 @@ The yield was calculated to be 82%.
 Table 1. TLC spot distance values for the starting materials (SM), control (CO), and product materials (PM).
 
 
-![](Lab/assets/images/Screen%20Shot%202022-08-06%20at%206.09.28%20PM.png)
+![](/Lab/assets/images/Screen%20Shot%202022-08-06%20at%206.09.28%20PM.png)
 
 
 ## Discussion
