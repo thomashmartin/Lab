@@ -11,7 +11,6 @@ parent: Projects
 {: .pt-3}
 
 The objective of this experiment is to catalytically dehydrate cyclohexanol with phosphoric acid to yield cyclohexene, a cyclic alkene. The cyclohexene is isolated via fractional distillation and its existence is confirmed with bromine water, which is a reagent used to distinguish between alkanes and alkenes.
-{: .pb-2}
 
 ## Introduction
 
@@ -26,19 +25,19 @@ A catalyst plays an important role in dehydration reactions as it affects the ra
 {: .pb-4}
 
 Another important consideration in this reaction is the usage of fractional distillation which is a technique used to precisely separate compounds by their boiling points (BP). Fractional distillation works by passing a vaporized mixture of compounds through a long fractionating column. In this column, the vapour mixture begins to condense but the heat of rising vapour causes the more volatile compounds to move along the column to the condenser. While the less volatile compounds drop back to the reaction mixture. This ensures that a higher purity distillate is obtained. In this reaction, fractional distillation ensures that only cyclohexene, BP: 83°C (2), and water, BP: 100°C, carry over the fractionating column since their boiling points are significantly lower than that for cyclohexanol, BP: 162°C (3).
-{: .pb-4}
+
 
 ### Experimental
 {: .pt-3}
 
 A mixture of cyclohexanol (24 cm3, 23 g, 230 mmol) and 85% phosphoric acid (11 cm3) was fractionally distilled whilst keeping the temperature of the vapour below 100°C. The distillate was washed with brine (8 cm3) and the crude product dried over anhydrous CaCl2 to yield cyclohexene as a transparent fluid (13.41 g, 160 mmol, yield 71%). A bromine test was performed on the product.
-{: .pb-4}
+
 
 ### Reaction Mechanism
 {: .pt-3}
 
 The reaction is initiated when the nucleophilic oxygen atom of the hydroxyl group attacks a proton originating from the dissociation of the phosphoric acid molecule. This forms an oxonium ion intermediate and a dihydrogen phosphate ion. Given that water is a very good leaving group, the C-O bond is broken with both of the electrons going to the oxygen atom. As a result, a cyclic carbocation is formed which is immediately deprotonated by the dihydrogen phosphate ion to form cyclohexene and phosphoric acid. All of these reactions are reversible, but due to the reaction conditions, the right-hand side equilibrium concentration position is dominant.
-{: .pb-4}
+
 
 ### Results
 
@@ -74,3 +73,18 @@ The third significant contributor to the high yield is the second alteration of 
 Sources of systematic error were kept relatively low throughout the experiment by using an analytical balance, using high-purity reagents, and manually recovering as much of the product as possible during the washings and other procedures. Furthermore, the crude product was dried over anhydrous CaCl2 which ensures that no water is present in the sample. This is important as the removal of water makes the yield calculation more accurate. The largest source of systematic error in the calculation of the percentage yield occurs when the cyclohexanol was poured into the reaction vessel. This is because the cyclohexanol was measured volumetrically in a relatively cold room. This allowed some of the viscous cyclohexanol to stick to the sides and bottom of the graduated cylinder. Therefore, only an approximate amount of cyclohexanol was poured into the flask. To increase the accuracy of the yield calculation, it would have been necessary to weigh out exactly how much cyclohexanol was added to the flask instead of measuring it out volumetrically. It is also important to note that some of the product is lost as it evaporates and some of it was stuck on the walls of the fractional distillation apparatus. To increase the overall accuracy of the percentage yield, it would be important to consider multiple trials of the reaction as this decreases the extent of random error.
 {: .pb-4}
 
+## References
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 2rem 0;
+    background-color: #000;
+    border: 0;
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.1em;
+    margin-block-end: 0.1em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+}
+Hello world.
