@@ -32,7 +32,7 @@ Benzoic acid (10.05 ± 0.01 g, 0.08230 mol) dissolved in methanol (40 cm³ ± 1.
 
 The reaction is initiated when the oxygen atom of the C=O group of the benzoic acid molecule attacks a proton released from the acid catalyst. However, this formed intermediate is not in its most stable form, and thus it resonates to a form where the electron-deficient region exists around the central carbon atom - thus forming a tertiary carbocation which is relatively stable. Then the electron-dense oxygen atom of the methanol molecule attacks this carbocation intermediate. After which, a proton transfer occurs at the oxonium ion site and the proton transfers to any of the other bases in the reaction mixture abbreviated as B. An oxygen atom of any hydroxyl group will then attack a proton, forming a new oxonium ion that can act as a good leaving group. An electron pair of adjacent oxygen in the hydroxyl group will then "push out" the oxonium ion leaving group. Lastly, the new oxonium ion is deprotonated with the help of a water molecule and an ester is formed. This reaction mechanism was adapted from (2).
 
-![A screenshot showing the VCAT start page with STEM VCAT highlighted]({{site.url}}assets/images/Screen%20Shot%202022-08-06%20at%206.09.28%20PM.png)
+![](/Lab/assets/images/Screen%20Shot%202022-08-06%20at%206.09.28%20PM.png)
 Figure 1. The Fischer esterification reaction mechanism.
 
 ## Results
@@ -41,8 +41,6 @@ The yield was calculated to be 82%.
 
 Table 1. TLC spot distance values for the starting materials (SM), control (CO), and product materials (PM).
 
-
-![](/Lab/assets/images/Screen%20Shot%202022-08-06%20at%206.09.28%20PM.png)
 
 
 ## Discussion
