@@ -81,12 +81,17 @@ hr {
     margin: 2rem 0;
     background-color: #000;
     border: 0;
-    display: block;
-    unicode-bidi: isolate;
-    margin-block-start: 0.1em;
-    margin-block-end: 0.1em;
-    margin-inline-start: auto;
-    margin-inline-end: auto;
 }
 }
 Hello world.
+
+1. Bockisch, C.; Lorance, E. D.; Hartnett, H. E.; Shock, E. L.; Gould, I. R. Kinetics and  Mechanisms of Dehydration of Secondary Alcohols Under Hydrothermal Conditions. ACS Earth Space Chem. 2018, 2 (8), 821–832. https://doi.org/10.1021/acsearthspacechem.8b00030.
+
+
+1. O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse Station, NJ: Merck and Co., Inc., 2001., p. 475
+
+1. Lide, D.R. CRC Handbook of Chemistry and Physics 88th Edition 2007-2008. CRC Press, Taylor & Francis, Boca Raton, FL 2007, p. 3-128
+
+1. Chen, F.; Shetty, M.; Wang, M.; Shi, H.; Liu, Y.; Camaioni, D. M.; Gutiérrez, O. Y.; Lercher, J. A. Differences in Mechanism and Rate of Zeolite-Catalyzed Cyclohexanol Dehydration in Apolar and Aqueous Phase. ACS Catal. 2021, 11 (5), 2879–2888. https://doi.org/10.1021/acscatal.0c05674.
+
+1. Williamson, K. L.; Masters, K. M. Macroscale and Microscale Organic Experiments; Cengage Learning: Boston, MA, USA, 2016; p 340.
