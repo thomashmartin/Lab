@@ -8,13 +8,13 @@ parent: Projects
 # <span style="color:#a98700">03</span> Acid-catalyzed Dehydration of Cyclohexanol into Cyclohexene
 
 ## Objectives
-.mt-2
+{: .mt-2}
 
 The objective of this experiment is to catalytically dehydrate cyclohexanol with phosphoric acid to yield cyclohexene, a cyclic alkene. The cyclohexene is isolated via fractional distillation and its existence is confirmed with bromine water, which is a reagent used to distinguish between alkanes and alkenes.
 
 
 ## Introduction
-.mt-1
+{: .mt-1 }
 
 The catalytic dehydration reaction of cyclohexanol with phosphoric acid is an example of an endothermic equilibrium elimination reaction where a secondary alcohol group is removed and an alkene group is formed via the E1 pathway. Even though the overall reaction is endothermic, there are exothermic components to the equilibrium reaction due to bonds being formed. However, the reaction is overall endothermic because a C-O bond is broken which is a highly endothermic process. 
 
