@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acid-catalyzed Dehydration of Cyclohexanol into Cyclohexene
+title: Cyclohexanol into Cyclohexene
 parent: Projects
 ---
 
@@ -54,7 +54,6 @@ Percentage yield of cyclohexene is 71%.
 ## Discussion
  
 
-
 A bromine test was performed on the obtained product and it confirmed that an alkene was indeed present as the brown bromine water turned colourless. 
 {: .pb-4}
  
@@ -71,7 +70,6 @@ The third significant contributor to the high yield is the second alteration of 
 {: .pb-4}
 
 Sources of systematic error were kept relatively low throughout the experiment by using an analytical balance, using high-purity reagents, and manually recovering as much of the product as possible during the washings and other procedures. Furthermore, the crude product was dried over anhydrous CaCl2 which ensures that no water is present in the sample. This is important as the removal of water makes the yield calculation more accurate. The largest source of systematic error in the calculation of the percentage yield occurs when the cyclohexanol was poured into the reaction vessel. This is because the cyclohexanol was measured volumetrically in a relatively cold room. This allowed some of the viscous cyclohexanol to stick to the sides and bottom of the graduated cylinder. Therefore, only an approximate amount of cyclohexanol was poured into the flask. To increase the accuracy of the yield calculation, it would have been necessary to weigh out exactly how much cyclohexanol was added to the flask instead of measuring it out volumetrically. It is also important to note that some of the product is lost as it evaporates and some of it was stuck on the walls of the fractional distillation apparatus. To increase the overall accuracy of the percentage yield, it would be important to consider multiple trials of the reaction as this decreases the extent of random error.
-{: .pb-4}
 
 ## References
 
