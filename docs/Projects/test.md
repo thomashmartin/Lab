@@ -27,19 +27,19 @@ A catalyst plays an important role in dehydration reactions as it affects the ra
 Another important consideration in this reaction is the usage of fractional distillation which is a technique used to precisely separate compounds by their boiling points (BP). Fractional distillation works by passing a vaporized mixture of compounds through a long fractionating column. In this column, the vapour mixture begins to condense but the heat of rising vapour causes the more volatile compounds to move along the column to the condenser. While the less volatile compounds drop back to the reaction mixture. This ensures that a higher purity distillate is obtained. In this reaction, fractional distillation ensures that only cyclohexene, BP: 83°C (2), and water, BP: 100°C, carry over the fractionating column since their boiling points are significantly lower than that for cyclohexanol, BP: 162°C (3).
 
 
-### Experimental
+## Experimental
 {: .pt-3}
 
 A mixture of cyclohexanol (24 cm3, 23 g, 230 mmol) and 85% phosphoric acid (11 cm3) was fractionally distilled whilst keeping the temperature of the vapour below 100°C. The distillate was washed with brine (8 cm3) and the crude product dried over anhydrous CaCl2 to yield cyclohexene as a transparent fluid (13.41 g, 160 mmol, yield 71%). A bromine test was performed on the product.
 
 
-### Reaction Mechanism
+## Reaction Mechanism
 {: .pt-3}
 
 The reaction is initiated when the nucleophilic oxygen atom of the hydroxyl group attacks a proton originating from the dissociation of the phosphoric acid molecule. This forms an oxonium ion intermediate and a dihydrogen phosphate ion. Given that water is a very good leaving group, the C-O bond is broken with both of the electrons going to the oxygen atom. As a result, a cyclic carbocation is formed which is immediately deprotonated by the dihydrogen phosphate ion to form cyclohexene and phosphoric acid. All of these reactions are reversible, but due to the reaction conditions, the right-hand side equilibrium concentration position is dominant.
 
 
-### Results
+## Results
 
 
 Qualitative observations: the cyclohexanol-phosphoric acid mixture was opaque before distillation and turned yellow after the distillation. The brown bromine water turned colourless in the presence of the product.
@@ -51,7 +51,7 @@ Mass of the product: (66.85 - 53.44) ± 0.02 g = 13.41 ± 0.02 g
 Percentage yield of cyclohexene is 71%.
 
 
-### Discussion
+## Discussion
  
 
 
@@ -74,6 +74,7 @@ Sources of systematic error were kept relatively low throughout the experiment b
 {: .pb-4}
 
 ## References
+{:
 hr {
     height: 2px;
     padding: 0;
@@ -86,5 +87,6 @@ hr {
     margin-block-end: 0.1em;
     margin-inline-start: auto;
     margin-inline-end: auto;
+}
 }
 Hello world.
