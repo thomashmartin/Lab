@@ -46,7 +46,7 @@ Table 1. TLC spot distance values for the starting materials (SM), control (CO),
 | ambrosia | gala | red delicious |
 | pink lady | jazz | macintosh |
 | honeycrisp | granny smith | fuji |
-![A screenshot showing the VCAT start page with STEM VCAT highlighted]({{site.url}}assets/images/Screen%20Shot%202022-08-06%20at%206.09.28%20PM.png)
+![A screenshot showing the VCAT start page with STEM VCAT highlighted](/assets/images/Screen%20Shot%202022-08-06%20at%206.09.28%20PM.png)
 
 
 ## Discussion
