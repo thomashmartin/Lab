@@ -1,6 +1,6 @@
 ---
 layout: default
-title: test
+title: Acid-catalyzed Dehydration of Cyclohexanol into Cyclohexene
 parent: Projects
 ---
 
@@ -74,16 +74,6 @@ Sources of systematic error were kept relatively low throughout the experiment b
 {: .pb-4}
 
 ## References
-{:
-hr {
-    height: 2px;
-    padding: 0;
-    margin: 2rem 0;
-    background-color: #000;
-    border: 0;
-}
-}
-Hello world.
 
 1. Bockisch, C.; Lorance, E. D.; Hartnett, H. E.; Shock, E. L.; Gould, I. R. Kinetics and  Mechanisms of Dehydration of Secondary Alcohols Under Hydrothermal Conditions. ACS Earth Space Chem. 2018, 2 (8), 821–832. https://doi.org/10.1021/acsearthspacechem.8b00030.
 
