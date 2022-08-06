@@ -9,18 +9,21 @@ parent: Projects
 
 ## Objectives
 {: .mt-2}
+{: .pt-2}
 
 The objective of this experiment is to catalytically dehydrate cyclohexanol with phosphoric acid to yield cyclohexene, a cyclic alkene. The cyclohexene is isolated via fractional distillation and its existence is confirmed with bromine water, which is a reagent used to distinguish between alkanes and alkenes.
 
 
 ## Introduction
 {: .mt-1 }
+{: .pt-1}
 
 The catalytic dehydration reaction of cyclohexanol with phosphoric acid is an example of an endothermic equilibrium elimination reaction where a secondary alcohol group is removed and an alkene group is formed via the E1 pathway. Even though the overall reaction is endothermic, there are exothermic components to the equilibrium reaction due to bonds being formed. However, the reaction is overall endothermic because a C-O bond is broken which is a highly endothermic process. 
 
 
 Most dehydration reactions are kinetically very slow and energetically unfavourable (1). Therefore, the reaction conditions are usually controlled to increase the rate of reaction and to make the equilibrium product-favoured. In this experiment, the rate of reaction is increased by heating the mixture, using a catalyst, and continuously removing the formed water and cyclohexene via fractional distillation which alters the dominant equilibrium concentration position.
-
+{: .mb-1 }
+{: .pb-1}
 
 
 A catalyst plays an important role in dehydration reactions as it affects the rate at which an equilibrium is established. Catalysts do so by lowering the activation energy of both the forward and reverse reactions, thus altering the rate at which equilibrium is established. In this instance, the reaction is catalyzed by 85% phosphoric acid which protonates the hydroxyl group, a poor leaving group, making it a cationic species which is a good leaving group. Thus making the reaction more likely to occur as the energy required for the hydroxyl group to be ejected is much lower when it is protonated. It is important to note, however, that a catalyst does not change the equilibrium positions of reactions, and it does not affect the Gibbs free energy of the overall reaction. 
