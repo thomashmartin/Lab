@@ -4,11 +4,10 @@ title: Cyclohexanol into Cyclohexene
 parent: Projects
 ---
 
-
+{: .pt-2}
 # <span style="color:#a98700">03</span> Acid-catalyzed Dehydration of Cyclohexanol into Cyclohexene
 
 ## Objectives
-{: .pt-3}
 
 The objective of this experiment is to catalytically dehydrate cyclohexanol with phosphoric acid to yield cyclohexene, a cyclic alkene. The cyclohexene is isolated via fractional distillation and its existence is confirmed with bromine water, which is a reagent used to distinguish between alkanes and alkenes.
 
