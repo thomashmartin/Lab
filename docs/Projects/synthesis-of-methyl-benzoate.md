@@ -46,9 +46,9 @@ Figure 3. The Fischer esterification reaction mechanism.
 
 The yield was calculated to be 82%.
 
-Table 1. TLC spot distance values for the starting materials (SM), control (CO), and product materials (PM).
+Table 1. TLC spot distance values for the starting materials (SM) and product materials (PM).
 
-![TLC](/Lab/assets/images/02/TLC.png){: width="250" }{: .center-image }
+![TLC](/Lab/assets/images/02/TLC.png){: width="70%" }{: .center-image }
 
 ## Discussion
  
