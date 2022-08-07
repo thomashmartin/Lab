@@ -2,6 +2,7 @@
 layout: default
 title: Cyclohexanol into Cyclohexene
 parent: Projects
+nav_order: 3
 ---
 
 {: .pt-2}
