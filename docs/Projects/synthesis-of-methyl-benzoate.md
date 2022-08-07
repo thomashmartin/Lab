@@ -41,6 +41,18 @@ The yield was calculated to be 82%.
 
 Table 1. TLC spot distance values for the starting materials (SM), control (CO), and product materials (PM).
 
+\begin{table}[!ht]
+    \centering
+    \caption{Table 1. Hello}
+    \begin{tabular}{|l|l|l|}
+    \hline
+        SM & PM1 & PM2 \\ \hline
+        Spot Distance (cm) & 4.1 & 1.9 \\ \hline
+        Solvent Front (cm) & 7.0 & 7.0 \\ \hline
+        Rf & 0.59 & 0.27 \\ \hline
+    \end{tabular}
+    \label{hello}
+\end{table}
 
 
 ## Discussion
