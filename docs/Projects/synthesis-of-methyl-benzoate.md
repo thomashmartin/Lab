@@ -24,7 +24,7 @@ The catalytic dehydration reaction of cyclohexanol with phosphoric acid is an ex
 ## Experimental
 
 
-Benzoic acid (10.05 ± 0.01 g, 0.08230 mol) dissolved in methanol (40 cm³ ± 1.0 %, 99% purity) was refluxed for 30 minutes in the presence of concentrated sulfuric acid (2 cm³ ± 1.0 %, 98% purity). Boiling chips were also present during the reflux. The reaction mixture was poured into a separating funnel along with water (100 cm³) and extracted twice with dichloromethane (2 x 40 cm³). The organic extracts were washed with aq. sodium carbonate (30 cm³, 5%), followed by a wash with water (100 cm³). The organic layer was dried over anhydrous magnesium sulphate and transferred to a preweighed round-bottom flask. The DCM was removed from the extract using a rotary evaporator at 40°C. A TLC sample was taken from the mixture right before refluxing and after refluxing. $$ab\superscript{th}$$
+Benzoic acid (10.05 ± 0.01 g, 0.08230 mol) dissolved in methanol (40 cm³ ± 1.0 %, 99% purity) was refluxed for 30 minutes in the presence of concentrated sulfuric acid (2 cm³ ± 1.0 %, 98% purity). Boiling chips were also present during the reflux. The reaction mixture was poured into a separating funnel along with water (100 cm³) and extracted twice with dichloromethane (2 x 40 cm³). The organic extracts were washed with aq. sodium carbonate (30 cm³, 5%), followed by a wash with water (100 cm³). The organic layer was dried over anhydrous magnesium sulphate and transferred to a preweighed round-bottom flask. The DCM was removed from the extract using a rotary evaporator at 40°C. A TLC sample was taken from the mixture right before refluxing and after refluxing. 
 
 ![The reflux apparatus.](/Lab/assets/images/02/1.jpg)
 Figure 1. The Fischer esterification reaction mechanism.
@@ -48,20 +48,12 @@ The yield was calculated to be 82%.
 
 Table 1. TLC spot distance values for the starting materials (SM), control (CO), and product materials (PM).
 
-$$
-\begin{table}[!ht]
-    \centering
-    \caption{Table 1. Hello}
-    \begin{tabular}{|l|l|l|}
-    \hline
-        SM & PM1 & PM2 \\ \hline
-        Spot Distance (cm) & 4.1 & 1.9 \\ \hline
-        Solvent Front (cm) & 7.0 & 7.0 \\ \hline
-        Rf & 0.59 & 0.27 \\ \hline
-    \end{tabular}
-    \label{hello}
-\end{table}
-$$
+| **SM**             | **PM1** | **PM2** |
+|--------------------|---------|---------|
+| Spot Distance (cm) | 4.1     | 1.9     |
+| Solvent Front (cm) | 7.0     | 7.0     |
+| Rf                 | 0.59    | 0.27    |
+
 
 ## Discussion
  
