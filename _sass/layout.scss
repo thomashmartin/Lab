@@ -1,14 +1,6 @@
 //
 // The basic two column layout
 //
-.site-title {
-content: url("/assets/images/logo.png");
-display: inline-block;
-position: relative;
-width: 35px;
-top: 5px;
-}
-
 
 .side-bar {
   z-index: 0;
@@ -127,6 +119,9 @@ top: 5px;
   padding-bottom: $sp-3;
   color: $body-heading-color;
   @include fs-6;
+  
+content: url("/assets/images/logo.png");
+position: relative;
 
   @include mq(md) {
     padding-top: $sp-2;
