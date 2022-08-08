@@ -62,6 +62,7 @@ Figure 6. The BZ phenomena.
 
  
 ## References
+{: padding-bottom: 5em;}
 **______________________________________________________________________________**
 1. Winfree, A. T. The Geometry of Biological Time; Springer Study Edition; Springer-Verlag: Berlin Heidelberg, 1980; pp 301–302. https://doi.org/10.1007/978-3-662-22492-2.
 
