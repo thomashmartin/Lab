@@ -31,11 +31,11 @@ C: 1.0 g of sodium bromide + 10 cm³ of distilled water
 
 The 25 mM 1,10-phenanthroline iron(II) sulfate complex, also known as ferroin, was made by dissolving 0.135 g of 1,10-phenanthroline and 0.0695 g of iron(II) sulfate heptahydrate in 10 cm³ of distilled water. 
 
+![The reagents.](/Lab/assets/images/01_BZ/IMG_0246.jpeg)
+Figure 1. The prepared and labeled reagents.
+
 6 cm³ of A, 1.0 cm³ of B, and 0.50 cm³ of C were combined in a petri dish and stirred occasionally. After about 3 minutes, 1.0 cm³ of the ferroin solution was added and stirred until a homogenous mixture was obtained. Note, that sometimes when the ferroin is added, a precipitate forms. If this happens, the solution needs to be stirred until the precipitate disappears.
 
-
-![The reflux apparatus.](/Lab/assets/images/02/1.jpg)
-Figure 1. The Fischer esterification reaction mechanism.
 
 ## Reaction Mechanism
 
@@ -48,12 +48,21 @@ Figure 3. The Fischer esterification reaction mechanism.
 
 ## Results
  
-![The reflux apparatus.](/Lab/assets/images/02/1.jpg)
-Figure 1. The Fischer esterification reaction mechanism.
+![The reagents.](/Lab/assets/images/01_BZ/IMG_0304.jpeg)
+Figure 1. The prepared and labeled reagents.
 {: .pb-4}
-![The solution under reflux.](/Lab/assets/images/02/2.jpg)
-Figure 2. The Fischer esterification reaction mechanism.
- 
+![The reagents.](/Lab/assets/images/01_BZ/IMG_0298.jpeg)
+Figure 1. The prepared and labeled reagents.
+{: .pb-4}
+![The reagents.](/Lab/assets/images/01_BZ/IMG_0346.jpeg)
+Figure 1. The prepared and labeled reagents.
+{: .pb-4}
+![The reagents.](/Lab/assets/images/01_BZ/IMG_0296.jpeg)
+Figure 1. The prepared and labeled reagents.
+{: .pb-4}
+![The reagents.](/Lab/assets/images/01_BZ/IMG_0257.jpeg)
+Figure 1. The prepared and labeled reagents.
+
  
 ## References
 **______________________________________________________________________________**
