@@ -9,8 +9,8 @@ permalink: /
 # Welcome to My Lab.
 {: .fs-9 }
 
-Welcome to my site! I am excited to share my journey in the lab with you.
+Hi there, I am excited to share my journey in the lab with you. Feel free to browse through my projects on the left.
 
-I am a first-year chemistry student at Princeton University.
+I am a first-year chemistry student at Princeton University and I have a special interest in organic chemistry and natural extractives.
 
 You can email me at tm2501(at)princeton.edu
