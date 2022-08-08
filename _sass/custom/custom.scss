@@ -1,18 +1,4 @@
 
-/*
-   Align image to the right
-   ========================================================================== */
-
-.image-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  @include media($medium) {
-    float: left;
-    margin-right: $gutter;
-  }
-}
-
 .center-image
 {
     margin: 0 auto;
