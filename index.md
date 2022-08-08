@@ -16,6 +16,11 @@ I am a first-year chemistry student at Princeton University.
 You can email me at tm2501(at)princeton.edu
 
 
-![image](/assets/images/profile.webp){: style="float: left"; margin-right: 0.5em; height="30%" width="30%"} Welcome to my site! I am excited to share my journey in the lab with you. I am a first-year chemistry student at Princeton University. You can email me at tm2501(at)princeton.edu
+![image](/assets/images/profile.webp){: style="float: left"; margin-right: 0.5em; height="30%" width="30%"} 
+Welcome to my site! I am excited to share my journey in the lab with you. I am a first-year chemistry student at Princeton University. You can email me at tm2501(at)princeton.edu
 
+<div style="float: right">
+![image](/assets/images/profile.webp)
+  Welcome to my site! I am excited to share my journey in the lab with you. I am a first-year chemistry student at Princeton University. You can email me at tm2501(at)princeton.edu
+</div>
 
