@@ -9,24 +9,8 @@ permalink: /
 # My journey.
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive  theme that is easily customizable and hosted on GitHub Pages.
+Welcome to my site! I am excited to share my journey in the lab with you. I am a first-year chemistry student at Princeton University.
+Email: tm2501(at)princeton.edu
 {: .fs-6 .fw-300 }
 
 ---
-
-## Getting started
-
-### Dependencies
-
-Sample text
-
-### Quick start: Use as a GitHub Pages remote theme
-
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-
-```yaml
-remote_theme: just-the-docs/just-the-docs
-```
-
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
-
