@@ -9,8 +9,6 @@ nav_order: 2
 {: .pt-2}
 # <span style="color:#a98700">02</span> Synthesis of Methyl Benzoate
 
-Organic
-{: .label }
 
 ## Objectives
 
