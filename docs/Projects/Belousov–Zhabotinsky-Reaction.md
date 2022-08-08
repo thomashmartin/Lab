@@ -43,25 +43,22 @@ Figure 1. The prepared and labeled reagents.
 The reaction is initiated when the oxygen atom of the C=O group of the benzoic acid molecule attacks a proton released from the acid catalyst. However, this formed intermediate is not in its most stable form, and thus it resonates to a form where the electron-deficient region exists around the central carbon atom - thus forming a tertiary carbocation which is relatively stable. Then the electron-dense oxygen atom of the methanol molecule attacks this carbocation intermediate. After which, a proton transfer occurs at the oxonium ion site and the proton transfers to any of the other bases in the reaction mixture abbreviated as B. An oxygen atom of any hydroxyl group will then attack a proton, forming a new oxonium ion that can act as a good leaving group. An electron pair of adjacent oxygen in the hydroxyl group will then "push out" the oxonium ion leaving group. Lastly, the new oxonium ion is deprotonated with the help of a water molecule and an ester is formed. This reaction mechanism was adapted from (2).
 
 
-Figure 3. The Fischer esterification reaction mechanism.
-
-
 ## Results
  
-![The reagents.](/Lab/assets/images/01_BZ/IMG_0304.jpeg)
-Figure 1. The prepared and labeled reagents.
+![BZ Phenomena](/Lab/assets/images/01_BZ/IMG_0304.jpeg)
+Figure 2. The BZ phenomena.
 {: .pb-4}
 ![The reagents.](/Lab/assets/images/01_BZ/IMG_0298.jpeg)
-Figure 1. The prepared and labeled reagents.
+Figure 3. The BZ phenomena.
 {: .pb-4}
 ![The reagents.](/Lab/assets/images/01_BZ/IMG_0346.jpeg)
-Figure 1. The prepared and labeled reagents.
+Figure 4. The BZ phenomena.
 {: .pb-4}
 ![The reagents.](/Lab/assets/images/01_BZ/IMG_0296.jpeg)
-Figure 1. The prepared and labeled reagents.
+Figure 5. The BZ phenomena.
 {: .pb-4}
 ![The reagents.](/Lab/assets/images/01_BZ/IMG_0257.jpeg)
-Figure 1. The prepared and labeled reagents.
+Figure 6. The BZ phenomena.
 
  
 ## References
