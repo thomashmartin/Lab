@@ -7,7 +7,6 @@ permalink: /
 ---
 
 # Welcome to My Lab.
-{: .fs-9 }
 
 Hi there, I am excited to share my journey in the lab with you. Feel free to browse through my projects on the left.
 
