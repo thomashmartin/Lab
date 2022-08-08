@@ -9,6 +9,9 @@ nav_order: 2
 {: .pt-2}
 # <span style="color:#a98700">02</span> Synthesis of Methyl Benzoate
 
+Organic
+{: .label }
+
 ## Objectives
 
 The objective of this experiment is to prepare methyl benzoate by a Fischer esterification reaction between methanol and benzoic acid. The existence of methyl benzoate is confirmed using thin-layer chromatography (TLC).
