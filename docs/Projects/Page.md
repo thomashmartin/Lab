@@ -6,7 +6,7 @@ parent: Projects
 nav_order: 4
 ---
 
-# GC-TCD Procedure
+# Steam Distillation and Chracterization of Clove Oil from Cloves
 {: .no_toc  }
 
 ----
