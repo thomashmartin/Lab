@@ -9,7 +9,7 @@ nav_order: 1
 {: .pt-2}
 # <span style="color:#a98700">01</span> Belousov–Zhabotinsky Reaction
 
-Inorganic
+ Inorganic 
 {: .label .label-green }
 
 ## Objectives
