@@ -9,6 +9,9 @@ nav_order: 1
 {: .pt-2}
 # <span style="color:#a98700">01</span> Belousov–Zhabotinsky Reaction
 
+Inorganic
+{: .label .label-green }
+
 ## Objectives
 
 The objective of this experiment is to prepare the reagents required to make the Belousov–Zhabotinsky reaction and then combine these reagents to obserbe the phenomena.
