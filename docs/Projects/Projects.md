@@ -3,6 +3,7 @@ layout: default
 title: Projects
 has_children: true
 permalink: /docs/Projects
+has_toc: true
 ---
 
 # UI Components
