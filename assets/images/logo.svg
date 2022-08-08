@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 61 14" xmlns="http://www.w3.org/2000/svg">
-  <text style="font-family: Helvetica; font-size: 13px; font-weight: 700; white-space: pre;" x="5.383" y="10.997">tautomer</text>
-  <ellipse style="paint-order: fill; stroke-width: 0px; fill: rgb(169, 135, 0);" cx="2.638" cy="4.108" rx="1.9" ry="1.9"/>
-  <ellipse style="paint-order: fill; stroke-width: 0px; fill: rgb(169, 135, 0);" cx="2.638" cy="9.112" rx="1.9" ry="1.9"/>
+<svg viewBox="0 0 61 16" xmlns="http://www.w3.org/2000/svg">
+  <text style="font-family: Helvetica; font-size: 13px; font-weight: 700; white-space: pre;" x="5.382" y="11.969">tautomer</text>
+  <ellipse style="paint-order: fill; stroke-width: 0px; fill: rgb(169, 135, 0);" cx="2.637" cy="5.08" rx="1.9" ry="1.9"/>
+  <ellipse style="paint-order: fill; stroke-width: 0px; fill: rgb(169, 135, 0);" cx="2.637" cy="10.084" rx="1.9" ry="1.9"/>
 </svg>
