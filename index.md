@@ -6,7 +6,7 @@ description: "Welcome to my lab."
 permalink: /
 ---
 
-# My journey.
+# Welcome to My Lab.
 {: .fs-9 }
 
 Welcome to my site! I am excited to share my journey in the lab with you. I am a first-year chemistry student at Princeton University.
