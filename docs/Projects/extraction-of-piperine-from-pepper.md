@@ -36,8 +36,7 @@ Figure 3. The Fischer esterification reaction mechanism.
 
 **Table 1.** The organic compounds identified in the first extraction batch.
 ![The Fischer esterification reaction mechanism](/Lab/assets/images/05/2b.svg){: width="90%" }
-
-
+{: .pt-2}
 RT = Retention Time
 
 **Table 2.** The organic compounds identified in the second extraction batch.
