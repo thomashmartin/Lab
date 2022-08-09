@@ -12,7 +12,7 @@ nav_order: 5
 
 ## Objectives
 
-The objective of this experiment is to extract and purify piperine from black peppers by soxhlet extraction. The purity and characterization of the extracts is validated using GC-MS. Moreover, the existence of piperine is confirmed using thin-layer chromatography (TLC).
+The objective of this experiment is to extract and purify piperine from black peppers by soxhlet extraction. The purity and characterization of the extract is validated using GC-MS. Moreover, the existence of piperine is confirmed using thin-layer chromatography (TLC).
 
 ## Introduction
 
@@ -27,30 +27,21 @@ Lorem ipsum.
 
 Lorem ipsum.
 
-![The reflux apparatus.](/Lab/assets/images/02/1.jpg)
-Figure 1. The Fischer esterification reaction mechanism.
-{: .pb-4}
-![The solution under reflux.](/Lab/assets/images/02/2.jpg)
-Figure 2. The Fischer esterification reaction mechanism.
-
 
 ## Total Ion Chromatograms
-
-
-Lorem ipsum.
-![The Fischer esterification reaction mechanism](/Lab/assets/images/02/Reaction_Scheme.svg)
-
-Figure 3. The Fischer esterification reaction mechanism.
-
-Lorem ipsum.
-![The Fischer esterification reaction mechanism](/Lab/assets/images/02/Reaction_Scheme.svg)
 
 Figure 3. The Fischer esterification reaction mechanism.
 
 ## Results
 
+Table 1. The organic compounds identified in the first extraction batch.
+![The Fischer esterification reaction mechanism](/Lab/assets/images/05/2b.svg)
 
-Table 1. TLC spot distance values for the starting materials (SM) and product materials (PM).
+Table 2. The organic compounds identified in the second extraction batch.
+![The Fischer esterification reaction mechanism](/Lab/assets/images/05/3a.svg)
+RT = Retention Time
+
+Table 3. TLC spot distance values for the starting materials (SM) and product materials (PM).
 
 ![TLC](/Lab/assets/images/02/TLC.png){: width="70%" }
 
@@ -63,12 +54,13 @@ Lorem ipsum.
 Lorem ipsum.
 {: .pb-4}
  
-
  
 Lorem ipsum.
   
  
+ 
 ## References
+────────────────────────────────────────────
 
 1. A
 
