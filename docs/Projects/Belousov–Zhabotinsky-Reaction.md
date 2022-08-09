@@ -46,19 +46,15 @@ The reaction is initiated when the oxygen atom of the C=O group of the benzoic a
 ## Results
  
 ![BZ Phenomena](/Lab/assets/images/01_BZ/IMG_0304.jpeg)
-Figure 2. The BZ phenomena.
-{: .pb-4}
+
 ![The reagents.](/Lab/assets/images/01_BZ/IMG_0298.jpeg)
-Figure 3. The BZ phenomena.
-{: .pb-4}
+
 ![The reagents.](/Lab/assets/images/01_BZ/IMG_0346.jpeg)
-Figure 4. The BZ phenomena.
-{: .pb-4}
+
 ![The reagents.](/Lab/assets/images/01_BZ/IMG_0296.jpeg)
-Figure 5. The BZ phenomena.
-{: .pb-4}
+
 ![The reagents.](/Lab/assets/images/01_BZ/IMG_0257.jpeg)
-Figure 6. The BZ phenomena.
+Figures 2-6. The BZ phenomena.
 
  
 ## References
