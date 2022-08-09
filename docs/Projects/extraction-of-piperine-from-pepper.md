@@ -43,7 +43,7 @@ RT = Retention Time
 
 **Table 3.** TLC spot distance values for the starting materials (SM) and product materials (PM).
 
-![TLC](/Lab/assets/images/02/TLC.png){: width="60%" }
+![TLC](/Lab/assets/images/02/TLC.png){: width="50%" }
 
 ## Discussion
  
