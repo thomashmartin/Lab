@@ -34,22 +34,18 @@ Figure 3. The Fischer esterification reaction mechanism.
 
 ## Results
 
-Table 1. The organic compounds identified in the first extraction batch.
-![The Fischer esterification reaction mechanism](/Lab/assets/images/05/2b.svg)
+**Table 1.** The organic compounds identified in the first extraction batch.
+![The Fischer esterification reaction mechanism](/Lab/assets/images/05/2b.svg){: width="90%" }
 
-Table 2. The organic compounds identified in the second extraction batch.
-![The Fischer esterification reaction mechanism](/Lab/assets/images/05/3a.svg)
+**Table 2.** The organic compounds identified in the second extraction batch.
+![The Fischer esterification reaction mechanism](/Lab/assets/images/05/3a.svg){: width="90%" }
 RT = Retention Time
 
-Table 3. TLC spot distance values for the starting materials (SM) and product materials (PM).
+**Table 3.** TLC spot distance values for the starting materials (SM) and product materials (PM).
 
-![TLC](/Lab/assets/images/02/TLC.png){: width="70%" }
+![TLC](/Lab/assets/images/02/TLC.png){: width="60%" }
 
 ## Discussion
- 
-Lorem ipsum.
-{: .pb-4}
-
  
 Lorem ipsum.
 {: .pb-4}
