@@ -69,7 +69,7 @@ To confirm the actual percentage of methyl benzoate present in the sample it wou
  
  
 ## References
-
+────────────────────────────────────────────
 1. Fischer Esterification https://www.organic-chemistry.org/namedreactions/fischer-esterification.shtm (accessed 2022-01-29).
 
 1. Kotz, J. C.; Treichel, P.; Townsend, J. R.; Treichel, D. A. Chemistry & Chemical Reactivity; Cengage Learning: Boston, MA, 2019; pp 838–839.
