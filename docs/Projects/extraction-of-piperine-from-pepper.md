@@ -31,8 +31,8 @@ Lorem ipsum.
 ![A](/Lab/assets/images/05/2.jpg){: width="50%" } ![A](/Lab/assets/images/05/1.jpg){: width="50%" }
 
 <p float="left">
-  <img src="/Lab/assets/images/05/2.jpg" width="50%" />
-  <img src="/Lab/assets/images/05/1.jpg" width="50%" />
+  <img src="/Lab/assets/images/05/2.jpg" width="30%" />
+  <img src="/Lab/assets/images/05/1.jpg" width="30%" />
 </p>
 
 ## Total Ion Chromatograms
