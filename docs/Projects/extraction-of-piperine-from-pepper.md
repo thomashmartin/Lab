@@ -27,6 +27,8 @@ Lorem ipsum.
 
 Lorem ipsum.
 
+{% include image-gallery.html folder="/Lab/assets/images/05" %}
+
 
 ## Total Ion Chromatograms
 
@@ -36,12 +38,7 @@ Figure 3. The Fischer esterification reaction mechanism.
 
 **Table 1.** The organic compounds identified in the first extraction batch.
 ![The Fischer esterification reaction mechanism](/Lab/assets/images/05/2b.svg){: width="90%" }
-{: .pt-2}
-RT = Retention Time
-
-**Table 2.** The organic compounds identified in the second extraction batch.
-![The Fischer esterification reaction mechanism](/Lab/assets/images/05/3a.svg){: width="90%" }
-
+{: .pb-2}
 RT = Retention Time
 
 **Table 3.** TLC spot distance values for the starting materials (SM) and product materials (PM).
