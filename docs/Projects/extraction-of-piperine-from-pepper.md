@@ -27,12 +27,15 @@ Lorem ipsum.
 
 Lorem ipsum.
 
-{: include image-gallery.html folder="/Lab/assets/images/05" }
-![A](/Lab/assets/images/05/2.jpg){: width="50%" } ![A](/Lab/assets/images/05/1.jpg){: width="50%" }
-
 <p float="left">
-  <img src="/Lab/assets/images/05/2.jpg" width="45%" />
   <img src="/Lab/assets/images/05/1.jpg" width="45%" />
+  <img src="/Lab/assets/images/05/2.jpg" width="45%" />
+  <img src="/Lab/assets/images/05/3.jpg" width="45%" />
+  <img src="/Lab/assets/images/05/4.jpg" width="45%" />
+  <img src="/Lab/assets/images/05/5.jpg" width="45%" />
+  <img src="/Lab/assets/images/05/6.jpg" width="45%" />
+  <img src="/Lab/assets/images/05/7.jpg" width="45%" />
+  <img src="/Lab/assets/images/05/8.jpg" width="45%" />
 </p>
 
 ## Total Ion Chromatograms
