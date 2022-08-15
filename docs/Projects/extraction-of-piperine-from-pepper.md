@@ -39,14 +39,16 @@ Lorem ipsum.
 </p>
 
 
-![A](/Lab/assets/images/05/1.jpg){: width="45%" }
-![A](/Lab/assets/images/05/1.jpg){: width="45%" }
-![A](/Lab/assets/images/05/1.jpg){: width="45%" }
-![A](/Lab/assets/images/05/1.jpg){: width="45%" }{:class="img-responsive"}
-
 ## Total Ion Chromatograms
 
 ![A](/Lab/assets/images/05/1.jpg) | ![A](/Lab/assets/images/05/1.jpg)
+
+
+
+|![A](/Lab/assets/images/05/1.jpg) | ![A](/Lab/assets/images/05/1.jpg)|
+|:--:|:--:| 
+| figure 1 | figure 1 |
+
 
 Figure 3. The Fischer esterification reaction mechanism.
 
