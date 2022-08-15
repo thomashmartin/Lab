@@ -32,13 +32,15 @@ Lorem ipsum.
 
 |![A](/Lab/assets/images/05/1.jpg) | ![A](/Lab/assets/images/05/2.jpg)|
 |:--|:--| 
-| figure 1 | figure 1 |
+| **Figure 1.** The Soxhlet extract | **Figure 2.** Evaporating acetone from the extract with KOH in EtOH added into it|
+
 |![A](/Lab/assets/images/05/3.jpg) | ![A](/Lab/assets/images/05/4.jpg)|
 |:--|:--| 
-| figure 1 | figure 1 |
-|![A](/Lab/assets/images/05/5.jpg) | ![A](/Lab/assets/images/05/6.jpg)|
+| **Figure 3.** The resinous matter that separated after the addition of the KOH in EtOH. | **Figure 4** The clear filtrate. |
+
+|![A](/Lab/assets/images/05/6.jpg) | ![A](/Lab/assets/images/05/7.jpg)|
 |:--|:--| 
-| figure 1 | figure 1 |
+| **Figure 5.** Addition of the filtrate to water | figure 1 |
 
 Figure 3. The Fischer esterification reaction mechanism.
 
