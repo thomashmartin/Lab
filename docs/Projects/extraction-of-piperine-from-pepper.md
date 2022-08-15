@@ -60,7 +60,7 @@ Lorem ipsum.
 ## Results
 
 **Table 1.** The organic compounds identified in the first extraction batch.
-![The Fischer esterification reaction mechanism](/Lab/assets/images/05/2b.svg){: width="90%" }
+![The Fischer esterification reaction mechanism](/Lab/assets/images/05/2b.png){: width="90%" }
 {: .pb-2}
 RT = Retention Time
 
