@@ -53,7 +53,7 @@ Lorem ipsum.
 |:--|:--| 
 | **Figure 9.** Addition of the filtrate to water. | **Figure 10.** The mixture after being refrigerated for 3 days. |
 
-|![A](/Lab/assets/images/05/12.jpg) | ![A](/Lab/assets/images/05/12.jpg)|
+|![A](/Lab/assets/images/05/12.jpg) | ![A](/Lab/assets/images/05/13.jpg)|
 |:--|:--| 
 | **Figure 11.** Addition of the filtrate to water. | **Figure 12.** The mixture after being refrigerated for 3 days. |
 
