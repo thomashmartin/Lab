@@ -34,20 +34,28 @@ Lorem ipsum.
 |:--|:--| 
 | **Figure 1.** The Soxhlet extract. | **Figure 2.** Evaporating acetone from the extract with KOH in EtOH added into it. |
 
-{: .pb-1}
 
 |![A](/Lab/assets/images/05/3.jpg) | ![A](/Lab/assets/images/05/4.jpg)|
 |:--|:--| 
 | **Figure 3.** The resinous matter that separated after the addition of the KOH in EtOH. | **Figure 4.** The clear filtrate. |
 
-{: .pb-1} 
 
 |![A](/Lab/assets/images/05/6.jpg) | ![A](/Lab/assets/images/05/7.jpg)|
 |:--|:--| 
 | **Figure 5.** Addition of the filtrate to water. | **Figure 6.** The mixture after being refrigerated for 3 days. |
 
-{: .pb-1} 
+|![A](/Lab/assets/images/05/8.jpg) | ![A](/Lab/assets/images/05/9.jpg)|
+|:--|:--| 
+| **Figure 7.** Addition of the filtrate to water. | **Figure 8.** The mixture after being refrigerated for 3 days. |
 
+
+|![A](/Lab/assets/images/05/6.jpg) | ![A](/Lab/assets/images/05/7.jpg)|
+|:--|:--| 
+| **Figure 9.** Addition of the filtrate to water. | **Figure 10.** The mixture after being refrigerated for 3 days. |
+
+|![A](/Lab/assets/images/05/6.jpg) | ![A](/Lab/assets/images/05/7.jpg)|
+|:--|:--| 
+| **Figure 11.** Addition of the filtrate to water. | **Figure 12.** The mixture after being refrigerated for 3 days. |
 
 ## Results
 
