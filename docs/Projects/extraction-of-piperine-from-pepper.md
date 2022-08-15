@@ -46,8 +46,8 @@ Lorem ipsum.
 
 ## Total Ion Chromatograms
 
-![A](/Lab/assets/images/05/1.jpg){:class="img-responsive"}
-![A](/Lab/assets/images/05/1.jpg){:class="img-responsive"}
+![A](/Lab/assets/images/05/1.jpg) | ![A](/Lab/assets/images/05/1.jpg)
+
 Figure 3. The Fischer esterification reaction mechanism.
 
 ## Results
