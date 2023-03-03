@@ -19,8 +19,7 @@ The Belousov–Zhabotinsky reaction is a common example of a nonlinear oscillati
 
 1. Create a quality control sample from a separate stock solution.  Make it a concentration that falls near the middle of your standard concentrations.  Use a 25-mL volumetric flask.
 
-    <div class = "tip">TIP:
-    When creating your QC, make sure you use stock solution from a different lot and preferably a different manufacturer.  This helps check for contamination in the chemicals received from the supplier.  You should also do your QC calculations entirely from scratch so that you check your math with the QC.</div>
+    <div class = "tip">*TIP:* When creating your QC, make sure you use stock solution from a different lot and preferably a different manufacturer.  This helps check for contamination in the chemicals received from the supplier.  You should also do your QC calculations entirely from scratch so that you check your math with the QC.</div>
 
 
 ## Experimental
