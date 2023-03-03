@@ -17,6 +17,10 @@ The objective of this experiment is to prepare the reagents required to make the
 
 The Belousov–Zhabotinsky reaction is a common example of a nonlinear oscillating reaction. In this experiment, a 25 mM 1,10-phenanthroline iron(II) sulfate complex is used as a catalyst and as a redox indicator to illustrate the periodic color change from reddish orange to blue throughout the complex reactions taking place in the mixture.
 
+1. Create a quality control sample from a separate stock solution.  Make it a concentration that falls near the middle of your standard concentrations.  Use a 25-mL volumetric flask.
+
+    <div class = "tip">When creating your QC, make sure you use stock solution from a different lot and preferably a different manufacturer.  This helps check for contamination in the chemicals received from the supplier.  You should also do your QC calculations entirely from scratch so that you check your math with the QC.</div>
+
 
 ## Experimental
 
